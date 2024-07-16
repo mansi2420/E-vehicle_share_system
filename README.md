@@ -23,7 +23,7 @@ instructions provided below to make sure the project works flawlessly on your sy
 
 INSTRUCTIONS
 
-After you’ve met the basic requirements, open the project folder onto your text editor/IDE and
+After you’ve met the basic requirements, unzip and open the source code folder named "EVS"  onto your text editor/IDE and
 follow these instructions:
 
 1. In the folder, you can see a file ‘requirements.txt’, this file contains all the modules that we used in python to work on the project, you’ll have to install them as well. To install all the modules in one go, open the python terminal, in that, open the project folder, and run the following command:
